@@ -39,10 +39,10 @@ span{
 	font-size:50px;
 	padding-top: 20px;
 	background: aqua; 
-    background: -webkit-linear-gradient(aqua, #80ffaa); 
-    background: -o-linear-gradient(aqua, #80ffaa); 
-    background: -moz-linear-gradient(aqua, #80ffaa); 
-    background: linear-gradient(aqua, #80ffaa);
+   background: -webkit-linear-gradient(aqua, #80ffaa); 
+   background: -o-linear-gradient(aqua, #80ffaa); 
+   background: -moz-linear-gradient(aqua, #80ffaa); 
+   background: linear-gradient(aqua, #80ffaa);
 }
 
 #sideBar{
