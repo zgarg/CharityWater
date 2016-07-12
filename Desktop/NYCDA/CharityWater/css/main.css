@@ -1,15 +1,16 @@
 p{
-	border-top: 2pt solid #33d6ff;
+	border-top: 2pt solid #80ffaa;
 	border-right: 2pt solid black;
 	border-left: 2pt solid black;
-	border-bottom:8pt solid #33d6ff;
-	width: 960px;
+	border-bottom:8pt solid aqua;
+	width: 950px;
 	margin: 0 auto;
 	background-color: #000;
 	font-family:fantasy;
-	color:#33d6ff;
+	color:aqua;
 	text-align: center;
 	font-size:20px;
+	padding:5px;
 }
 
 span{
@@ -19,28 +20,34 @@ span{
 #sectionWrap{
 	width: 960px;
 	margin: 0 auto;
-	border:2pt solid #33d6ff;
+	border:2pt solid aqua;
 	border-right:2pt solid black;
 	height:1000px;
 	font-family: fantasy
 }
 
 #div1{
-	border: 2pt solid #33d6ff;
+	border: 2pt solid aqua;
+	border-bottom:2pt solid #80ffaa;
 	width: 960px;
 	height: 100px;
 	margin: 0 auto;
-	background-color: #33d6ff;
-	color:#000;
+	/*background-color: #33d6ff;*/
+	color:black;
 	text-align: center;
 	font-family:fantasy;
 	font-size:50px;
 	padding-top: 20px;
+	background: aqua; 
+    background: -webkit-linear-gradient(aqua, #80ffaa); 
+    background: -o-linear-gradient(aqua, #80ffaa); 
+    background: -moz-linear-gradient(aqua, #80ffaa); 
+    background: linear-gradient(aqua, #80ffaa);
 }
 
 #sideBar{
-	border:2pt solid #33d6ff;
-	background-color: #33d6ff;
+	border:2pt solid aqua;
+	background-color: aqua;
 	width:30%;
 	height:1000px;
 	margin:0 auto;
@@ -54,13 +61,21 @@ span{
 	border-bottom:2pt solid black;
 	border-right: 2pt solid black;
 	background-color: black;
-	width:68.12%;
+	width:68.125%;
 	height:990px;
 	margin:0 auto;
 	float: left;
 	text-align: center;
-	color:#33d6ff;
+	color:aqua;
 	padding:5px;
-}
-Status API Training Shop Blog About
 
+}
+
+#grad1 {
+    height: 200px;
+    background: aqua; 
+    background: -webkit-linear-gradient(aqua, #80ffaa); 
+    background: -o-linear-gradient(aqua, #80ffaa); 
+    background: -moz-linear-gradient(aqua, #80ffaa); 
+    background: linear-gradient(aqua, #80ffaa);
+ }
